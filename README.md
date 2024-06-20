@@ -1,5 +1,6 @@
+<img align="center" src="https://izazdhiya.ontrifid.com/img/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif">
 <h1 align="center">Hi 👋, I'm I'zaz Dhiya 'Ulhaq</h1>
-<h3 align="center">A Software Developer</h3>
+<h3 align="center">A Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👨‍💻 All of my projects are available at [bit.ly/portfolio-izaz-dhiya](bit.ly/portfolio-izaz-dhiya)
